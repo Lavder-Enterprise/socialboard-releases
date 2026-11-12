@@ -6,6 +6,15 @@
         <description>Socialboard for Mac updates.</description>
         <language>en</language>
         <item>
+            <title>0.5.0</title>
+            <pubDate>Thu, 12 Nov 2026 22:45:25 +0100</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<style>:root{color-scheme:light dark}body{font:13px -apple-system,sans-serif;margin:10px 12px}</style>Cards ready notification, send a card to TCG, faster boards, link suggestions.]]></description>
+            <enclosure url="https://github.com/Lavder-Enterprise/socialboard-releases/releases/download/v0.5.0/Socialboard-0.5.0.zip" type="application/octet-stream" sparkle:edSignature="ZE6N4DZdbNhjX4IBQzBHFKLAZ1tLC6/FIMqepRXKtwbZx7FKWd/60vxO/8/isRxMFm60skoKDWbCkJhUHRw5Dg==" length="133291921" />
+        </item>
+        <item>
             <title>0.4.7</title>
             <pubDate>Thu, 12 Nov 2026 21:43:45 +0100</pubDate>
             <sparkle:version>17</sparkle:version>
