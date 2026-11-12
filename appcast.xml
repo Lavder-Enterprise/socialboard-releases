@@ -11,7 +11,7 @@
             <sparkle:version>5</sparkle:version>
             <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[Small fixes.]]></description>
+            <description><![CDATA[<style>:root{color-scheme:light dark}body{font:13px -apple-system,sans-serif;margin:10px 12px}</style>Small fixes.]]></description>
             <enclosure url="https://github.com/Lavder-Enterprise/socialboard-releases/releases/download/v0.2.1/Socialboard-0.2.1.zip" type="application/octet-stream" sparkle:edSignature="WU2euhe+f4bbxDgBCd6MPEIKDiJgcN8OhOGwuH5dwHyE795rcSmWKFGwp7i9kXva/lmcVr1Ze+JZs8paKxUSDQ==" length="133011353" />
         </item>
         <item>
@@ -20,7 +20,7 @@
             <sparkle:version>4</sparkle:version>
             <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[Create and share boards, accept invites, review proposals. English and Italian. Automatic updates.]]></description>
+            <description><![CDATA[<style>:root{color-scheme:light dark}body{font:13px -apple-system,sans-serif;margin:10px 12px}</style>Create and share boards, accept invites, review proposals. English and Italian. Automatic updates.]]></description>
             <enclosure url="https://github.com/Lavder-Enterprise/socialboard-releases/releases/download/v0.2.0/Socialboard-0.2.0.zip" type="application/octet-stream" sparkle:edSignature="cMYnwx/sPkJ2Vl7c9c9UctOGPB3wuTHj5/jeidAAGJl8UMLFix5T2TvXoFfaY8O13TOAqQNfPZphMkOUFg8BAw==" length="133011273" />
         </item>
     </channel>
