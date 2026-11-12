@@ -6,6 +6,15 @@
         <description>Socialboard for Mac updates.</description>
         <language>en</language>
         <item>
+            <title>0.4.5</title>
+            <pubDate>Thu, 12 Nov 2026 19:46:56 +0100</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>0.4.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<style>:root{color-scheme:light dark}body{font:13px -apple-system,sans-serif;margin:10px 12px}</style>Video covers no longer start on a black frame.]]></description>
+            <enclosure url="https://github.com/Lavder-Enterprise/socialboard-releases/releases/download/v0.4.5/Socialboard-0.4.5.zip" type="application/octet-stream" sparkle:edSignature="Cc16zhguX1gH4GeDz8jHMYamlRDg3MwXOnA8P6exYgUBXO8Bu2g9S1/DlpfGlv0KzkLL/Of2jbAKsR2pPHAuCw==" length="133208195" />
+        </item>
+        <item>
             <title>0.4.4</title>
             <pubDate>Thu, 12 Nov 2026 18:46:54 +0100</pubDate>
             <sparkle:version>14</sparkle:version>
