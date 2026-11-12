@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Socialboard</title>
+        <link>https://raw.githubusercontent.com/Lavder-Enterprise/socialboard-releases/main/appcast.xml</link>
+        <description>Socialboard for Mac updates.</description>
+        <language>en</language>
+        <item>
+            <title>0.2.0</title>
+            <pubDate>Thu, 12 Nov 2026 13:32:34 +0100</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Create and share boards, accept invites, review proposals. English and Italian. Automatic updates.]]></description>
+            <enclosure url="https://github.com/Lavder-Enterprise/socialboard-releases/releases/download/v0.2.0/Socialboard-0.2.0.zip" type="application/octet-stream" sparkle:edSignature="cMYnwx/sPkJ2Vl7c9c9UctOGPB3wuTHj5/jeidAAGJl8UMLFix5T2TvXoFfaY8O13TOAqQNfPZphMkOUFg8BAw==" length="133011273" />
+        </item>
+    </channel>
+</rss>
