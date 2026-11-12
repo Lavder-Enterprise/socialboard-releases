@@ -6,6 +6,15 @@
         <description>Socialboard for Mac updates.</description>
         <language>en</language>
         <item>
+            <title>0.4.2</title>
+            <pubDate>Thu, 12 Nov 2026 17:55:38 +0100</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<style>:root{color-scheme:light dark}body{font:13px -apple-system,sans-serif;margin:10px 12px}</style>Run summaries in your language.]]></description>
+            <enclosure url="https://github.com/Lavder-Enterprise/socialboard-releases/releases/download/v0.4.2/Socialboard-0.4.2.zip" type="application/octet-stream" sparkle:edSignature="3bsm4B2W/LfR3sgX7kEalqKsGdtBbysjKOmPUmECcTnpY+8ad/JUwihmFitSKBwBv+RTiyMwrlik6AWrhqhdDA==" length="133104078" />
+        </item>
+        <item>
             <title>0.4.1</title>
             <pubDate>Thu, 12 Nov 2026 17:06:11 +0100</pubDate>
             <sparkle:version>11</sparkle:version>
