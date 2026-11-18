@@ -6,6 +6,15 @@
         <description>Socialboard for Mac updates.</description>
         <language>en</language>
         <item>
+            <title>0.5.3</title>
+            <pubDate>Wed, 18 Nov 2026 12:31:26 +0100</pubDate>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>0.5.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<style>:root{color-scheme:light dark}body{font:13px -apple-system,sans-serif;margin:10px 12px}</style>Connect your AI assistant from Settings, Connections.]]></description>
+            <enclosure url="https://github.com/Lavder-Enterprise/socialboard-releases/releases/download/v0.5.3/Socialboard-0.5.3.zip" type="application/octet-stream" sparkle:edSignature="Ke/GGvhzkTtze9/+/dK7q0c4l3+/R0Qq4fVZbSeoaGek5oYwZE1HymmIccZeliE4p05U+BjzZsCbp04S8O3HBw==" length="133302456" />
+        </item>
+        <item>
             <title>0.5.1</title>
             <pubDate>Fri, 13 Nov 2026 00:29:10 +0100</pubDate>
             <sparkle:version>20</sparkle:version>
